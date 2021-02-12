@@ -1,2 +1,2 @@
 install.packages("readr")
-install.packages("ggplot")
+install.packages("ggplot2")
